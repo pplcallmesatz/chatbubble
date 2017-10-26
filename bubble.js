@@ -1,18 +1,7 @@
-//(function(){
-//    chatBubble = function() {
-//        alert("");
-//    }
-//    
-//}());
-
-
-
 (function($) {
-
     $.fn.chatBubble = function() {
 
 //        params = $.extend( {minlength: 0, maxlength: 99999}, params);
-
     }
 })(jQuery);
 
@@ -155,7 +144,6 @@
             "</div>").appendTo(this);
     }
 })(jQuery);
-
 
 //chatBubble.prototype.initialize = function () {
 // place code here to get started
